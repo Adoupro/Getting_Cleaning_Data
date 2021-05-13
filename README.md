@@ -3,6 +3,8 @@
 
 ## Conception of the tidy dataset_1
 
+This exercice help us to use our new skills, to clean a dataset by using R programming.
+
 
 ### Step 1
 
@@ -41,8 +43,3 @@ We begin by create a empty list called 'new_data'. Afterwards, we take each subj
 ### Step 2
 
 Our list is cached into dataset_2
-
-
-
-
-
